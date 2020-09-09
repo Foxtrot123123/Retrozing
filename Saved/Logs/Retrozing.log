@@ -926,3 +926,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.09-07.43.23:720][467]LogSlate: Window 'Source Control Login' being destroyed
 [2020.09.09-07.43.31:415][238]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.09.09-07.43.31:457][238]LogSlate: Took 0.020646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.09-08.34.58:462][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.09-08.34.58:972][825]LogSlate: Window 'Source Control Login' being destroyed
+[2020.09.09-08.35.01:407][104]LogSlate: Took 0.017893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-08.35.07:554][815]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-08.35.08:883][815]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.09-08.35.10:331][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="../../../../../../Users/catus/OneDrive/Desktop/Unreal Projects/Retrozing/Content/NewBlueprint.uasset" SILENT=true
+[2020.09.09-08.35.10:344][971]LogSavePackage: Moving '../../../../../../Users/catus/OneDrive/Desktop/Unreal Projects/Retrozing/Saved/NewBlueprintA9BCF2334836960E6451178541D63786.tmp' to '../../../../../../Users/catus/OneDrive/Desktop/Unreal Projects/Retrozing/Content/NewBlueprint.uasset'
+[2020.09.09-08.35.10:357][971]AssetCheck: New page: Asset Save: NewBlueprint
+[2020.09.09-08.35.10:357][971]LogContentValidation: Display: Validating Blueprint /Game/NewBlueprint.NewBlueprint
